@@ -4,9 +4,15 @@ StreamLit App for SP500 stocks
 Use: http://34.66.143.41/
 
 
-Text Document contains list of all S&P 500 stocks
+S&PSymbols.txt contains list of all S&P 500 stocks.
+requirements.txt contains the required python files.
 
-PlotlyGraphs.py contains functions to create plotly graphs
+institutional_holders.csv contains list of all institutional holders for S&P 500 stocks.
 
-app.py contains the StreamLit files
+plotlyGraphs.py contains functions to create plotly graphs
+
+app.py contains the StreamLit files.
+Command "streamlit run app.py" in order to display the app in your own browser.
+
+
 
